@@ -18,6 +18,7 @@ This repository was created to showcase my analytical and technical skills (Exce
   * [Myntra analysis](#myntra-analysis)
 * [Digital Marketing Projects](#digital-marketing-projects)
   * [Comprehensive SEO Audit & Optimization for Organic Traffic Growth](#comprehensive-seo-audit)
+  * [Web Presence](#web-presence)
 
 # Business Analysis Projects <a name="business-analysis-projects"></a>
 
@@ -34,4 +35,6 @@ This repository was created to showcase my analytical and technical skills (Exce
 # Digital Marketing Projects <a name="digital-marketing-projects"></a>
 
 ## Comprehensive SEO Audit & Optimization for Organic Traffic Growth <a name="comprehensive-seo-audit"></a>
+
+## Web Presence <a name="web-presence"></a>
 
