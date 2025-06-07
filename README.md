@@ -20,6 +20,7 @@ This repository was created to showcase my analytical and technical skills (Exce
   * [Comprehensive SEO Audit & Optimization for Organic Traffic Growth](#comprehensive-seo-audit)
   * [Web Presence](#web-presence)
 * [Certificates](#certificates)
+* [Contacts](#contacts)
 
 # Business Analysis Projects <a name="business-analysis-projects"></a>
 
@@ -40,5 +41,10 @@ This repository was created to showcase my analytical and technical skills (Exce
 ## Web Presence <a name="web-presence"></a>
 
 # Certificates <a name="certificates"></a>
-  * [Masters in business analytics and digital marketing](https://sivaavis611.wixsite.com/portfolio/about)
+  * [Masters in Business analytics and Digital marketing](https://sivaavis611.wixsite.com/portfolio/about)
+
+# Contacts <a name="contacts"></a>
+  * Linekedin: https://sivaavis611.wixsite.com/portfolio/about
+  * Email: some@mail.com
+  * Phone: +91 1218902783037 
 
