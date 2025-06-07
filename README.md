@@ -11,7 +11,7 @@ This repository was created to showcase my analytical and technical skills (Exce
 # Contents
 * [About me](#about-me)
 * [Business Analytics Projects](#business-analysis-projects)
-  * [Customer purchase behaviour in retail](#Customer-purchase-behaviour-in-retail)
+  * [Customer purchase behaviour in retail](#customer-purchase-behaviour-in-retail)
   * [Swiggy Analysis](#swiggy-analysis)
 * [Digital Marketing Projects](#digital-marketing-projects)
 
@@ -25,7 +25,7 @@ Certainly! Here's a polished and enthusiastic response to the question "What int
 
 I love working on visually appealing and creatively designed games, and over the years, I’ve had the chance to contribute to many such projects. After exploring TapBlaze’s games on the Play Store, I was genuinely inspired by the art style, polish, and overall quality. I’m excited about the opportunity to be part of a team that creates such engaging experiences, and I’d love to contribute to developing more of these amazing games.
 
-## Customer purchase behaviour in retail <a name="Customer-purchase-behaviour-in-retail"></a>
+## Customer purchase behaviour in retail <a name="customer-purchase-behaviour-in-retail"></a>
 Certainly! Here's a polished and enthusiastic response to the question "What interests you in TapBlaze?":
 
 I love working on visually appealing and creatively designed games, and over the years, I’ve had the chance to contribute to many such projects. After exploring TapBlaze’s games on the Play Store, I was genuinely inspired by the art style, polish, and overall quality. I’m excited about the opportunity to be part of a team that creates such engaging experiences, and I’d love to contribute to developing more of these amazing games.
