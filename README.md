@@ -17,7 +17,7 @@ This repository was created to showcase my analytical and technical skills (Exce
 
 
 # Business Analysis Projects <business analysis projects="business-analysis-projects"></a>
-## Customer purchase behaviour in retail <project 1 ="project-1">
+## Customer purchase behaviour in retail <project 1="project-1"></a>
 
 
 # Digital Marketing Projects <digital marketing projects="digital-marketing-projects"></a>
