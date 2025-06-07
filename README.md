@@ -10,14 +10,15 @@ This repository was created to showcase my analytical and technical skills (Exce
 
 # Contents
 * [About me](#about-me)
-* [Business Analytics Projects](#about-me)
-  * [Customer purchase behaviour in retail](#project-1)
+* [Business Analytics Projects](#business-analysis-projects)
+  * [Customer purchase behaviour in retail](#Customer-purchase-behaviour-in-retail)
+  * [Swiggy Analysis](#swiggy-analysis)
 * [Digital Marketing Projects](#digital-marketing-projects)
 
 
 
 # Business Analysis Projects <business analysis projects="business-analysis-projects"></a>
-## Customer purchase behaviour in retail <project 1="project-1"></a>
-
+## Customer purchase behaviour in retail <Customer purchase behaviour in retail="Customer-purchase-behaviour-in-retail"></a>
+## Swiggy analysis <swiggy analysis="swiggy-analysis"></a>
 
 # Digital Marketing Projects <digital marketing projects="digital-marketing-projects"></a>
