@@ -1,2 +1,5 @@
 # Gopinath - Business Analyst Portfolio
-This repository was created to showcase my analytical and technical skills (Excel, Python, SQL, Power BI, PowerPoint, and others).
+About me
+Hello everyone! My name is Gopinath, and this is my portfolio.
+I love investigating different types of data, discovering insights, and representing it with beautiful visuals.
+I have a background in digital marketing and financial data analysis.
