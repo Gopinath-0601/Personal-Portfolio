@@ -10,4 +10,9 @@ This repository was created to showcase my analytical and technical skills (Exce
 
 # Contents
 * [About me](#about-me)
+* [Business Analysis Projects](#about-me)
 
+
+
+
+# Business Analysis Projects <about me="business-analysis-projects"></a>
