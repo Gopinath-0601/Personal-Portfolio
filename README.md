@@ -26,11 +26,11 @@ This repository was created to showcase my analytical and technical skills (Exce
 
 ## Customer purchase behaviour in retail <a name="customer-purchase-behaviour-in-retail"></a>
 ### Description:
-Here is small desc..
+The approach for this project focuses on equipping learners with comprehensive data analytics and visualization skills using Excel, SQL, and Power BI. It begins with data preparation and cleaning in Excel, followed by leveraging SQL queries to extract and manipulate data from a relational database. The integration of cleaned data and SQL results into Power BI facilitates advanced data modeling and visualization. By utilizing Power BI's capabilities, including DAX for calculations and interactive dashboards for visual representation, learners will analyze data to derive actionable insights that address various business scenarios effectively. This structured approach ensures a thorough understanding and application of data-driven decision-making processes across retail and e-commerce domains.
+
+### Presentation: [Customer-purchase-behaviour-in-retail](https://docs.google.com/presentation/d/11d2oash9gskWUPngCdEy5AcaKmrPcyVf/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
 ### Dashboard: [abcd.filefromat](https://sivaavis611.wixsite.com/portfolio/about)
-### Skills: 
-* Skill 1
-* Skill 2
+
 ### Result: 
 text here...
 ## Swiggy analysis <a name="swiggy-analysis"></a>
