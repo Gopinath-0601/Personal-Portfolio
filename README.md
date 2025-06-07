@@ -13,6 +13,7 @@ This repository was created to showcase my analytical and technical skills (Exce
 * [Business Analytics Projects](#business-analysis-projects)
   * [Customer purchase behaviour in retail](#customer-purchase-behaviour-in-retail)
   * [Swiggy Analysis](#swiggy-analysis)
+  * [Hotstar Analysis](#hotstar-analysis)
 * [Digital Marketing Projects](#digital-marketing-projects)
 
 # Business Analysis Projects <a name="business-analysis-projects"></a>
@@ -20,6 +21,8 @@ This repository was created to showcase my analytical and technical skills (Exce
 ## Customer purchase behaviour in retail <a name="customer-purchase-behaviour-in-retail"></a>
 
 ## Swiggy analysis <a name="swiggy-analysis"></a>
+
+## Hotstar analysis <a name="hotstar-analysis"></a>
 
 # Digital Marketing Projects <a name="digital-marketing-projects"></a>
 
