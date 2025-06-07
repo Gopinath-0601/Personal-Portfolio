@@ -25,7 +25,7 @@ This repository was created to showcase my analytical and technical skills (Exce
 # Business Analysis Projects <a name="business-analysis-projects"></a>
 
 ## Customer purchase behaviour in retail <a name="customer-purchase-behaviour-in-retail"></a>
-
+SAlkdfnasojfn an ;lknas;ojk bnopik
 ## Swiggy analysis <a name="swiggy-analysis"></a>
 
 ## Hotstar analysis <a name="hotstar-analysis"></a>
