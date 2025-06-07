@@ -25,7 +25,14 @@ This repository was created to showcase my analytical and technical skills (Exce
 # Business Analysis Projects <a name="business-analysis-projects"></a>
 
 ## Customer purchase behaviour in retail <a name="customer-purchase-behaviour-in-retail"></a>
-
+### Description:
+Here is small desc..
+### Dashboard: [abcd.filefromat](https://sivaavis611.wixsite.com/portfolio/about)
+### Skills: 
+* Skill 1
+* Skill 2
+### Result: 
+text here...
 ## Swiggy analysis <a name="swiggy-analysis"></a>
 
 ## Hotstar analysis <a name="hotstar-analysis"></a>
