@@ -40,4 +40,5 @@ This repository was created to showcase my analytical and technical skills (Exce
 ## Web Presence <a name="web-presence"></a>
 
 # Certificates <a name="certificates"></a>
+ *[Masters in business analytics and digital marketing](https://sivaavis611.wixsite.com/portfolio/about)
 
