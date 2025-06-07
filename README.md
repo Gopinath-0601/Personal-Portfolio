@@ -1,5 +1,5 @@
 # Gopinath - Business Analyst Portfolio
-# About me <about me="about-me"></a>
+# About me <about me="about-me"></about me>
 Hello everyone! My name is Gopinath, and this is my portfolio.
 I love investigating different types of data, discovering insights, and representing it with beautiful visuals.
 I have a background in digital marketing and financial data analysis.
@@ -20,7 +20,7 @@ Certainly! Here's a polished and enthusiastic response to the question "What int
 I love working on visually appealing and creatively designed games, and over the years, I’ve had the chance to contribute to many such projects. After exploring TapBlaze’s games on the Play Store, I was genuinely inspired by the art style, polish, and overall quality. I’m excited about the opportunity to be part of a team that creates such engaging experiences, and I’d love to contribute to developing more of these amazing games.
 
 
-# Business Analysis Projects <business analysis projects="business-analysis-projects"></a>
+# Business Analysis Projects <business analysis projects="business-analysis-projects"></business analysis projects>
 Certainly! Here's a polished and enthusiastic response to the question "What interests you in TapBlaze?":
 
 I love working on visually appealing and creatively designed games, and over the years, I’ve had the chance to contribute to many such projects. After exploring TapBlaze’s games on the Play Store, I was genuinely inspired by the art style, polish, and overall quality. I’m excited about the opportunity to be part of a team that creates such engaging experiences, and I’d love to contribute to developing more of these amazing games.
