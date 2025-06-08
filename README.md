@@ -31,27 +31,31 @@ The approach for this project focuses on equipping learners with comprehensive d
 ### Presentation: [Customer-purchase-behaviour-in-retail](https://docs.google.com/presentation/d/11d2oash9gskWUPngCdEy5AcaKmrPcyVf/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
 
 
-### Result: 
-text here...
 ## Swiggy analysis <a name="swiggy-analysis"></a>
-
+### Description:
+### Presentation:
 ## Hotstar analysis <a name="hotstar-analysis"></a>
-
+### Description:
+### Presentation:
 ## Electronic products revenue analysis <a name="electronic-products-revenue-analysis"></a>
-
+### Description:
+### Presentation:
 ## Myntra analysis <a name="myntra-analysis"></a>
-
+### Description:
+### Presentation:
 # Digital Marketing Projects <a name="digital-marketing-projects"></a>
 
 ## Comprehensive SEO Audit & Optimization for Organic Traffic Growth <a name="comprehensive-seo-audit"></a>
-
+### Description:
+### Presentation:
 ## Web Presence <a name="web-presence"></a>
-
+### Description:
+### Presentation:
 # Certificates <a name="certificates"></a>
-  * [Masters in Business analytics and Digital marketing](https://sivaavis611.wixsite.com/portfolio/about)
+  * [Masters in Business analytics and Digital marketing](https://www.guvi.in/certificate?id=33Y175908jM3BD4572)
 
 # Contacts <a name="contacts"></a>
   * Linekedin: https://sivaavis611.wixsite.com/portfolio/about
-  * Email: some@mail.com
-  * Phone: +91 1218902783037 
+  * Email: gopinath.balaji.2003@gmail.com
+  * Phone: +91 8220612482 
 
