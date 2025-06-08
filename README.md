@@ -30,35 +30,39 @@ This repository was created to showcase my analytical and technical skills (Exce
 The approach for this project focuses on equipping learners with comprehensive data analytics and visualization skills using Excel, SQL, and Power BI. It begins with data preparation and cleaning in Excel, followed by leveraging SQL queries to extract and manipulate data from a relational database. The integration of cleaned data and SQL results into Power BI facilitates advanced data modeling and visualization. By utilizing Power BI's capabilities, including DAX for calculations and interactive dashboards for visual representation, learners will analyze data to derive actionable insights that address various business scenarios effectively. This structured approach ensures a thorough understanding and application of data-driven decision-making processes across retail and e-commerce domains.
 
 ### Presentation: [Customer purchase behaviour in retail](https://docs.google.com/presentation/d/11d2oash9gskWUPngCdEy5AcaKmrPcyVf/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
-
+### Dashboard:
+### Dataset:
 
 ## Swiggy analysis <a name="swiggy-analysis"></a>
 ### Description:
 The aim is to analyze and visualize restaurant data to extract meaningful insights that can help in making informed business decisions. Learners will use Power BI to create interactive dashboards showcasing various aspects of the restaurant's performance.
 
 ### Presentation: [Swiggy analysis](https://docs.google.com/presentation/d/1mkMm9aZg0v64zWRxR_VZjlSTlAAOqKAj/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
-
+### Dashboard:
+### Dataset:
 
 ## Hotstar analysis <a name="hotstar-analysis"></a>
 ### Description:
 Provide an in-depth analysis and visualization of a movie dataset to uncover insights and trends. This includes understanding the distribution of movies by genre, running times, release years, age ratings, and other attributes.
 
 ### Presentation: [Hotstar analysis](https://docs.google.com/presentation/d/1IXriYGxc7Cm-hRsZ4T9h-S16q_rKzYU1/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
-
+### Dashboard:
+### Dataset:
 
 ## Hiring Process Analytics <a name="Hiring-Process-Analytics"></a>
 ### Description:
 Analyze the hiring process data of a multinational company to identify patterns, trends, and insights that can help optimize the hiring process, improve decision-making, and enhance overall recruitment efficiency.
 
 ### Presentation:[Hiring Process Analytics](https://docs.google.com/presentation/d/1TdJaSW7T_GVbWt4PQMZbiMmtsP79NSkU/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
-
+### Dataset:
 
 ## Electronic products revenue analysis <a name="electronic-products-revenue-analysis"></a>
 ### Description:
 The project involved cleaning the dataset in Excel, importing it into MySQL, performing SQL analysis to identify the best sales month, top-performing city, optimal ad timing, frequently bundled products, and best-selling item with its success factors, followed by generating a report with actionable business recommendations.
 
 ### Presentation: [Electronic products revenue analysis](https://docs.google.com/presentation/d/1UmcjJUtIZNyKkaVQ7dSkaxpY2SX3S4Em/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
-
+### MySQL file:
+### Dataset:
 
 ## Myntra analysis <a name="myntra-analysis"></a>
 ### Description:
