@@ -14,6 +14,7 @@ This repository was created to showcase my analytical and technical skills (Exce
   * [Customer purchase behaviour in retail](#customer-purchase-behaviour-in-retail)
   * [Swiggy Analysis](#swiggy-analysis)
   * [Hotstar Analysis](#hotstar-analysis)
+  * [Hiring Process Analytics](#Hiring-Process-Analytics)
   * [Electronic products revenue analysis](#electronic-products-revenue-analysis)
   * [Myntra analysis](#myntra-analysis)
 * [Digital Marketing Projects](#digital-marketing-projects)
@@ -43,6 +44,13 @@ The aim is to analyze and visualize restaurant data to extract meaningful insigh
 Provide an in-depth analysis and visualization of a movie dataset to uncover insights and trends. This includes understanding the distribution of movies by genre, running times, release years, age ratings, and other attributes.
 
 ### Presentation: [Hotstar analysis](https://docs.google.com/presentation/d/1IXriYGxc7Cm-hRsZ4T9h-S16q_rKzYU1/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
+
+
+## Hiring Process Analytics <a name="Hiring-Process-Analytics"></a>
+### Description:
+Analyze the hiring process data of a multinational company to identify patterns, trends, and insights that can help optimize the hiring process, improve decision-making, and enhance overall recruitment efficiency.
+
+### Presentation:[Hiring Process Analytics](https://docs.google.com/presentation/d/1TdJaSW7T_GVbWt4PQMZbiMmtsP79NSkU/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
 
 
 ## Electronic products revenue analysis <a name="electronic-products-revenue-analysis"></a>
