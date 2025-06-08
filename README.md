@@ -61,7 +61,6 @@ Analyze the hiring process data of a multinational company to identify patterns,
 The project involved cleaning the dataset in Excel, importing it into MySQL, performing SQL analysis to identify the best sales month, top-performing city, optimal ad timing, frequently bundled products, and best-selling item with its success factors, followed by generating a report with actionable business recommendations.
 
 ### Presentation: [Electronic products revenue analysis](https://docs.google.com/presentation/d/1UmcjJUtIZNyKkaVQ7dSkaxpY2SX3S4Em/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
-### MySQL file:
 ### Dataset:
 
 ## Myntra analysis <a name="myntra-analysis"></a>
