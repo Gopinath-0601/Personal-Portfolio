@@ -28,29 +28,52 @@ This repository was created to showcase my analytical and technical skills (Exce
 ### Description:
 The approach for this project focuses on equipping learners with comprehensive data analytics and visualization skills using Excel, SQL, and Power BI. It begins with data preparation and cleaning in Excel, followed by leveraging SQL queries to extract and manipulate data from a relational database. The integration of cleaned data and SQL results into Power BI facilitates advanced data modeling and visualization. By utilizing Power BI's capabilities, including DAX for calculations and interactive dashboards for visual representation, learners will analyze data to derive actionable insights that address various business scenarios effectively. This structured approach ensures a thorough understanding and application of data-driven decision-making processes across retail and e-commerce domains.
 
-### Presentation: [Customer-purchase-behaviour-in-retail](https://docs.google.com/presentation/d/11d2oash9gskWUPngCdEy5AcaKmrPcyVf/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
+### Presentation: [Customer purchase behaviour in retail](https://docs.google.com/presentation/d/11d2oash9gskWUPngCdEy5AcaKmrPcyVf/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
 
 
 ## Swiggy analysis <a name="swiggy-analysis"></a>
 ### Description:
-### Presentation:
+The aim is to analyze and visualize restaurant data to extract meaningful insights that can help in making informed business decisions. Learners will use Power BI to create interactive dashboards showcasing various aspects of the restaurant's performance.
+
+### Presentation: [Swiggy analysis](https://docs.google.com/presentation/d/1mkMm9aZg0v64zWRxR_VZjlSTlAAOqKAj/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
+
+
 ## Hotstar analysis <a name="hotstar-analysis"></a>
 ### Description:
-### Presentation:
+Provide an in-depth analysis and visualization of a movie dataset to uncover insights and trends. This includes understanding the distribution of movies by genre, running times, release years, age ratings, and other attributes.
+
+### Presentation: [Hotstar analysis](https://docs.google.com/presentation/d/1IXriYGxc7Cm-hRsZ4T9h-S16q_rKzYU1/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
+
+
 ## Electronic products revenue analysis <a name="electronic-products-revenue-analysis"></a>
 ### Description:
-### Presentation:
+The project involved cleaning the dataset in Excel, importing it into MySQL, performing SQL analysis to identify the best sales month, top-performing city, optimal ad timing, frequently bundled products, and best-selling item with its success factors, followed by generating a report with actionable business recommendations.
+
+### Presentation: [Electronic products revenue analysis](https://docs.google.com/presentation/d/1UmcjJUtIZNyKkaVQ7dSkaxpY2SX3S4Em/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
+
+
 ## Myntra analysis <a name="myntra-analysis"></a>
 ### Description:
-### Presentation:
+Myntra, a prominent online fashion and lifestyle retailer in India, seeks to improve its market position by leveraging insights from social media and customer reviews. As new business analysts, your task is to assess Myntra's online reputation, identify emerging trends, and provide strategic recommendations. This project will help you develop analytical skills without requiring advanced technical tools.
+
+### Presentation: [Myntra analysis](https://docs.google.com/presentation/d/1abNKlfhQm37IWIeNgzjZYCELPa0_uYIb/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
+
 # Digital Marketing Projects <a name="digital-marketing-projects"></a>
 
 ## Comprehensive SEO Audit & Optimization for Organic Traffic Growth <a name="comprehensive-seo-audit"></a>
 ### Description:
-### Presentation:
+This project focuses on conducting a comprehensive SEO audit and implementing optimization strategies to identify and resolve SEO issues, with the goal of increasing organic traffic, improving search engine rankings, and enhancing overall online visibility.
+
+### Presentation: [Comprehensive SEO Audit & Optimization for Organic Traffic Growth](https://docs.google.com/presentation/d/1O6xjqXL_mlJlqOn7VdeXpwjg07PC2eEM/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
+
+
 ## Web Presence <a name="web-presence"></a>
 ### Description:
-### Presentation:
+This project focuses on understanding digital marketing fundamentals, designing and building an effective web presence by learning website structure and design principles, and gaining hands-on experience by creating landing pages from scratch using industry best practices.
+
+### Presentation: [Web Presence](https://docs.google.com/presentation/d/1BoN1DQ6cm1Lpt-4Nhojbxcj9bTQmxLdK/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
+
+
 # Certificates <a name="certificates"></a>
   * [Masters in Business analytics and Digital marketing](https://www.guvi.in/certificate?id=33Y175908jM3BD4572)
 
