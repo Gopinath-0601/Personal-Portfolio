@@ -30,7 +30,7 @@ This repository was created to showcase my analytical and technical skills (Exce
 The approach for this project focuses on equipping learners with comprehensive data analytics and visualization skills using Excel, SQL, and Power BI. It begins with data preparation and cleaning in Excel, followed by leveraging SQL queries to extract and manipulate data from a relational database. The integration of cleaned data and SQL results into Power BI facilitates advanced data modeling and visualization. By utilizing Power BI's capabilities, including DAX for calculations and interactive dashboards for visual representation, learners will analyze data to derive actionable insights that address various business scenarios effectively. This structured approach ensures a thorough understanding and application of data-driven decision-making processes across retail and e-commerce domains.
 
 ### Presentation: [Customer purchase behaviour in retail](https://docs.google.com/presentation/d/11d2oash9gskWUPngCdEy5AcaKmrPcyVf/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
-### Dashboard: [Power BI Dashboard](https://drive.google.com/file/d/1pOI0ShJS0Pkeep7mqOzftsVpwwqI3EjO/view?usp=sharing)
+### Dashboard: [Power BI Dashboard](https://drive.google.com/file/d/1eSvhJ176O199czaQyYVdIC5Qqk0GSuUS/view?usp=sharing)
 ### Dataset: : [Customer purchase behaviour in retail dataset](https://drive.google.com/file/d/1iWvKxkaMlO2WhAuhDAeTiZFv3QzWM78e/view?usp=sharing)
 
 ## Swiggy analysis <a name="swiggy-analysis"></a>
@@ -38,7 +38,7 @@ The approach for this project focuses on equipping learners with comprehensive d
 The aim is to analyze and visualize restaurant data to extract meaningful insights that can help in making informed business decisions. Learners will use Power BI to create interactive dashboards showcasing various aspects of the restaurant's performance.
 
 ### Presentation: [Swiggy analysis](https://docs.google.com/presentation/d/1mkMm9aZg0v64zWRxR_VZjlSTlAAOqKAj/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
-### Dashboard: [Power BI Dashboard](https://drive.google.com/file/d/1lnsTpEksTi3oF4tc2yOMmeJOg8x882Aq/view?usp=sharing)
+### Dashboard: [Power BI Dashboard](https://drive.google.com/file/d/1_VnGv3qy2Z_oEeNrq8mOZU0BR42pnUWC/view?usp=sharing)
 ### Dataset: [Swiggy analysis dataset](https://docs.google.com/spreadsheets/d/1Q2mD7pdKkmpzd5WKAiVu1Y0sLJ1WpnzvHn-y8WqjMoA/edit?gid=736552329#gid=736552329)
 
 ## Hotstar analysis <a name="hotstar-analysis"></a>
@@ -46,7 +46,7 @@ The aim is to analyze and visualize restaurant data to extract meaningful insigh
 Provide an in-depth analysis and visualization of a movie dataset to uncover insights and trends. This includes understanding the distribution of movies by genre, running times, release years, age ratings, and other attributes.
 
 ### Presentation: [Hotstar analysis](https://docs.google.com/presentation/d/1IXriYGxc7Cm-hRsZ4T9h-S16q_rKzYU1/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
-### Dashboard: [Power BI Dashboard](https://drive.google.com/file/d/1Co8XHtmPuIIGmKTVYQmQbECNCIAZzgAI/view?usp=sharing)
+### Dashboard: [Power BI Dashboard](https://drive.google.com/file/d/177MsYCQ5_nVRguYJHZ14BuPKfYXZp9HY/view?usp=sharing)
 ### Dataset: [Hotstar analysis dataset](https://docs.google.com/spreadsheets/d/101EjQMzlHLeIbIGufyEGofBh4E8rqtItPXuolXjEzS0/edit?gid=1713652919#gid=1713652919)
 
 ## Hiring Process Analytics <a name="Hiring-Process-Analytics"></a>
