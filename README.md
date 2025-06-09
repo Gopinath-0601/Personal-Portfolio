@@ -31,7 +31,7 @@ The approach for this project focuses on equipping learners with comprehensive d
 
 ### Presentation: [Customer purchase behaviour in retail](https://docs.google.com/presentation/d/11d2oash9gskWUPngCdEy5AcaKmrPcyVf/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
 ### Dashboard:
-### Dataset:
+### Dataset: : [Customer purchase behaviour in retail dataset](https://drive.google.com/file/d/1iWvKxkaMlO2WhAuhDAeTiZFv3QzWM78e/view?usp=sharing)
 
 ## Swiggy analysis <a name="swiggy-analysis"></a>
 ### Description:
@@ -39,7 +39,7 @@ The aim is to analyze and visualize restaurant data to extract meaningful insigh
 
 ### Presentation: [Swiggy analysis](https://docs.google.com/presentation/d/1mkMm9aZg0v64zWRxR_VZjlSTlAAOqKAj/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
 ### Dashboard:
-### Dataset:
+### Dataset: [Swiggy analysis dataset](https://docs.google.com/spreadsheets/d/1Q2mD7pdKkmpzd5WKAiVu1Y0sLJ1WpnzvHn-y8WqjMoA/edit?gid=736552329#gid=736552329)
 
 ## Hotstar analysis <a name="hotstar-analysis"></a>
 ### Description:
@@ -47,21 +47,21 @@ Provide an in-depth analysis and visualization of a movie dataset to uncover ins
 
 ### Presentation: [Hotstar analysis](https://docs.google.com/presentation/d/1IXriYGxc7Cm-hRsZ4T9h-S16q_rKzYU1/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
 ### Dashboard:
-### Dataset:
+### Dataset: [Hotstar analysis dataset](https://docs.google.com/spreadsheets/d/101EjQMzlHLeIbIGufyEGofBh4E8rqtItPXuolXjEzS0/edit?gid=1713652919#gid=1713652919)
 
 ## Hiring Process Analytics <a name="Hiring-Process-Analytics"></a>
 ### Description:
 Analyze the hiring process data of a multinational company to identify patterns, trends, and insights that can help optimize the hiring process, improve decision-making, and enhance overall recruitment efficiency.
 
 ### Presentation:[Hiring Process Analytics](https://docs.google.com/presentation/d/1TdJaSW7T_GVbWt4PQMZbiMmtsP79NSkU/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
-### Dataset:
+### Dataset: [Hiring Process Analytics dataset](https://docs.google.com/spreadsheets/d/1wDRSjdJUPtoD2HyxLcyVVM42cbni9kAVRutvrcrmg0M/edit?gid=2092722043#gid=2092722043)
 
 ## Electronic products revenue analysis <a name="electronic-products-revenue-analysis"></a>
 ### Description:
 The project involved cleaning the dataset in Excel, importing it into MySQL, performing SQL analysis to identify the best sales month, top-performing city, optimal ad timing, frequently bundled products, and best-selling item with its success factors, followed by generating a report with actionable business recommendations.
 
 ### Presentation: [Electronic products revenue analysis](https://docs.google.com/presentation/d/1UmcjJUtIZNyKkaVQ7dSkaxpY2SX3S4Em/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
-### Dataset:
+### Dataset: [Electronic products revenue analysis dataset](https://docs.google.com/spreadsheets/d/1178nqajl4ZqdVTrhfj1_VlOns9jhIJao5pcz-HX7vHA/edit?gid=625479360#gid=625479360)
 
 ## Myntra analysis <a name="myntra-analysis"></a>
 ### Description:
