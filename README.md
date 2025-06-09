@@ -6,7 +6,7 @@ I have a background in digital marketing and financial data analysis.
 
 You can see more information in my [CV](https://drive.google.com/file/d/1T3C_TU1Y1u5faUsc0wbsP6zGFKxeWP-m/view?usp=sharing)
 
-This repository was created to showcase my analytical and technical skills (Excel, Python, SQL, Power BI, PowerPoint, and others).
+This repository was created to showcase my analytical and technical skills (Excel, Python, SQL, Power BI, PowerPoint, and others)
 
 # Contents
 * [About me](#about-me)
