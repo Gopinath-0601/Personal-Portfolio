@@ -89,7 +89,7 @@ This project focuses on understanding digital marketing fundamentals, designing 
   * [Masters in Business analytics and Digital marketing](https://www.guvi.in/certificate?id=33Y175908jM3BD4572)
 
 # Contacts <a name="contacts"></a>
-  * Linekedin: linkedin.com/in/gopinath-balaji-1b946836a
+  * Linekedin: [Gopinath balaji Linkedin profile](linkedin.com/in/gopinath-balaji-1b946836a)
   * Email: gopinath.balaji.2003@gmail.com
   * Phone: +91 8220612482 
 
