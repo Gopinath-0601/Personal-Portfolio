@@ -31,7 +31,7 @@ The approach for this project focuses on equipping learners with comprehensive d
 
 ### Presentation: [Customer purchase behaviour in retail](https://docs.google.com/presentation/d/11d2oash9gskWUPngCdEy5AcaKmrPcyVf/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
 ### Dashboard: [Power BI Dashboard](https://drive.google.com/file/d/1eSvhJ176O199czaQyYVdIC5Qqk0GSuUS/view?usp=sharing)
-### Dataset: : [Customer purchase behaviour in retail dataset](https://drive.google.com/file/d/1iWvKxkaMlO2WhAuhDAeTiZFv3QzWM78e/view?usp=sharing)
+### Dataset: [Customer purchase behaviour in retail dataset](https://drive.google.com/file/d/1iWvKxkaMlO2WhAuhDAeTiZFv3QzWM78e/view?usp=sharing)
 
 ## Swiggy analysis <a name="swiggy-analysis"></a>
 ### Description:
@@ -53,7 +53,7 @@ Provide an in-depth analysis and visualization of a movie dataset to uncover ins
 ### Description:
 Analyze the hiring process data of a multinational company to identify patterns, trends, and insights that can help optimize the hiring process, improve decision-making, and enhance overall recruitment efficiency.
 
-### Presentation:[Hiring Process Analytics](https://docs.google.com/presentation/d/1TdJaSW7T_GVbWt4PQMZbiMmtsP79NSkU/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
+### Presentation: [Hiring Process Analytics](https://docs.google.com/presentation/d/1TdJaSW7T_GVbWt4PQMZbiMmtsP79NSkU/edit?usp=sharing&ouid=108759140109935168294&rtpof=true&sd=true)
 ### Dataset: [Hiring Process Analytics dataset](https://docs.google.com/spreadsheets/d/1wDRSjdJUPtoD2HyxLcyVVM42cbni9kAVRutvrcrmg0M/edit?gid=2092722043#gid=2092722043)
 
 ## Electronic products revenue analysis <a name="electronic-products-revenue-analysis"></a>
