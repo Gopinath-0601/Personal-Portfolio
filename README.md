@@ -4,7 +4,7 @@ Hello everyone! My name is Gopinath, and this is my portfolio.
 I love investigating different types of data, discovering insights, and representing it with beautiful visuals.
 I have a background in digital marketing and financial data analysis.
 
-You can see more information in my [CV](https://drive.google.com/file/d/1T3C_TU1Y1u5faUsc0wbsP6zGFKxeWP-m/view?usp=sharing)
+You can see more information in my [CV](https://drive.google.com/file/d/1G3sc6yjEjtcEYCGFm6Tw7PkhmYt2xOGR/view?usp=sharing)
 
 This repository was created to showcase my analytical and technical skills (Excel, Python, SQL, Power BI, PowerPoint, and others)
 
